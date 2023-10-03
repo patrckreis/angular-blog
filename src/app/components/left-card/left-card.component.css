@@ -1,0 +1,14 @@
+.left-card-main-container {
+  /* border: 2px solid white; */
+  width: 600px;
+  height: 600px;
+}
+
+.left-cards-container {
+  display: flex;
+  margin: 0 0 10px 10px;
+}
+
+.cardTittle {
+  margin-left: 20px;
+}
